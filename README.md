@@ -1,7 +1,7 @@
 # jenkins-neo-theme
 Beautify your Jenkins with the a modern flat theme!
 
-Website: http://aarjithn.github.io/jenkins-neo-theme
+**NOTE: This project has moved into https://github.com/jenkins-contrib-themes/jenkins-neo-theme**
 
 So you love **Jenkins** but hate its ugly user interface and icons... Me too! Introducing **Jenkins Neo Theme**.
 
